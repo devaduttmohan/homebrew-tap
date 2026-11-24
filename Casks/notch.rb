@@ -1,8 +1,8 @@
 # Homebrew cask for Notch. bin/release fills in the version and checksum and pushes this to
 # the tap (github.com/devaduttmohan/homebrew-tap, Casks/notch.rb).
 cask "notch" do
-  version "0.7.4"
-  sha256 "d8e1d979ebfb675c94afe78d88dc7a741cdf51be54914326236a8b29aafd5c12"
+  version "0.7.5"
+  sha256 "1e80d987ca51c6b643130b7dc37425b1f80999c402e174c9339c670592b61657"
 
   url "https://github.com/devaduttmohan/notch/releases/download/v#{version}/Notch-#{version}.zip"
   name "Notch"
